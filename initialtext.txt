@@ -1,5 +1,4 @@
 Requirement:
 *************
-Developing bash script to take application, database, archive, voice servers backup automatically on monthly basis. 
 
 
